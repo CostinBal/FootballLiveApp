@@ -1,6 +1,6 @@
 # FootballLiveApp
 Tkinter python example of a live football desktop app which saves all important events from the match.
-The steps of using this app:
+#The steps of using this app:
 -create 2 folders in the python working environment,name these folders "teams" and "matches";
 -create teams using the create submenu on the main window;
 -create players and assign it to the teams using create players submenu on the main window;
